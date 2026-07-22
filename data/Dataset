@@ -1,1 +1,11 @@
+Dataset : List_of_Orders
+Contains order-level information, including Order ID, customer details, order date, state, and city. 
+This dataset provides the contextual information required to analyze sales distribution across regions and customers.
 
+Dataset : Order_Details
+Contains transaction-level details for each order, including product category, quantity, sales amount, and profit. 
+This dataset is used to evaluate sales performance, profitability, and category-wise business insights.
+
+Dataset : Sales_Target
+Contains monthly sales targets for different product categories. 
+This dataset is used to analyze target trends, identify fluctuations, and compare planned business goals with actual performance.
